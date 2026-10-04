@@ -247,7 +247,7 @@ Next goal → 200 problems 🚀
 | 149 | 2 | Add Two Numbers | 🟡 Medium | 🐍 Python |
 | 150 | 1 | Two Sum | 🟢 Easy | 🐍 Python |
 | 151 | — | Additional accepted problem | — | 🐍 Python |
-
+| 152 | 100 | Same Tree | Easy | 🐍 Python |
 </details>
 
 ---
