@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=LeetCode%20Solutions&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=151%20Problems%20Solved&descSize=22&descAlignY=58" alt="LeetCode Solutions banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=151+Problems+Solved+%F0%9F%8E%89;Data+Structures+%26+Algorithms;Python+%7C+Java+%7C+C+%7C+SQL+%7C+Bash;Learning+%26+Improving+Every+Day+%F0%9F%94%A5" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=152+Problems+Solved+%F0%9F%8E%89;Data+Structures+%26+Algorithms;Python+%7C+Java+%7C+C+%7C+SQL+%7C+Bash;Learning+%26+Improving+Every+Day+%F0%9F%94%A5" alt="Typing animation"/>
 
 <br>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhi23__sai-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhi23_sai/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhi23kk--hash-181717?style=for-the-badge&logo=github)](https://github.com/abhi23kk-hash)
-[![Solved](https://img.shields.io/badge/Solved-151-3ddc97?style=for-the-badge)](https://leetcode.com/u/abhi23_sai/)
+[![Solved](https://img.shields.io/badge/Solved-152-3ddc97?style=for-the-badge)](https://leetcode.com/u/abhi23_sai/)
 
 </div>
 
