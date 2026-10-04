@@ -90,7 +90,7 @@ Next goal → 200 problems 🚀
 ## 📚 Solved Problems
 
 <details>
-<summary><b>Click to expand all 151 problems</b></summary>
+<summary><b>Click to expand all 152 problems</b></summary>
 
 <br>
 
